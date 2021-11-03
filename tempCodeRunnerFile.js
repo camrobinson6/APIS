@@ -1,0 +1,1 @@
+let getResidents = document.querySelector("button")
